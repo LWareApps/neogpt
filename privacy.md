@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nostalgia for Snapchat privacy policy
 
 You can use the [editor on GitHub](https://github.com/LWareApps/nostalgia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
