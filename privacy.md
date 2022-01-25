@@ -41,7 +41,7 @@ We may employ third-party companies and individuals due to the following reasons
 *   To perform service-related services
 *   To assist us in analyzing how our service is used
 
-We want to inform users of this Service that these third parties have access to their personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We want to inform users of this service that these third parties have access to their personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 **Security**
 
