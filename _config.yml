@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Nostalgia for Snapchat
 show_downloads: false
+github:
+  is_project_page: false
