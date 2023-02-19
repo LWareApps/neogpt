@@ -1,12 +1,10 @@
-## Nostalgia Privacy Policy
+## Secret Screenshots Privacy Policy
 
-LWare built the Nostalgia app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
+LWare built the Secret screenshots app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
 
 If you choose to use our service, then you agree to the collection and use of information in relation to this policy. The personal information that we collect is used for providing and improving the service. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Nostalgia unless otherwise defined in this Privacy Policy.
 
 **Information collection and use**
 
@@ -20,7 +18,6 @@ Link to the Privacy Policy of third-party service providers used by the app:
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Snapchat](https://snap.com/en-US/privacy/privacy-policy)
 
 **Log data**
 
@@ -59,7 +56,7 @@ These services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022/01/25
+This policy is effective as of 2023/02/19
 
 **Contact us**
 
