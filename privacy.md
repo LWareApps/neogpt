@@ -1,6 +1,6 @@
-## Secret Screenshots Privacy Policy
+## Momentum Editor Privacy Policy
 
-LWare built the Secret screenshots app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
+LWare built the Momentum Editor app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
 
@@ -56,7 +56,7 @@ These services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023/02/19
+This policy is effective as of 2023/03/20
 
 **Contact us**
 
