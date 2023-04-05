@@ -1,4 +1,4 @@
-## NeoGPT – AI Chat Editor Privacy Policy
+## NeoGPT – AI Chat Privacy Policy
 
 LWare built the NeoGPT – AI Chat app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
 
