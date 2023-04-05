@@ -1,6 +1,6 @@
-## Momentum Editor Privacy Policy
+## NeoGPT – AI Chat Editor Privacy Policy
 
-LWare built the Momentum Editor app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
+LWare built the NeoGPT – AI Chat app as an ad supported app. This service is provided by LWare at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of personal information if anyone decided to use our service.
 
@@ -18,6 +18,7 @@ Link to the Privacy Policy of third-party service providers used by the app:
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [OpenAI](https://openai.com/policies/privacy-policy)
 
 **Log data**
 
